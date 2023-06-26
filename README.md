@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="#">Website</a> •
-    <a href="https://github.com/helloitsm3/helloitsm3">README</a> •
+    <a href="https://github.com/maweiche/maweiche">README</a> •
     <a href="https://mattweichel.xyz">Portfolio</a> •
     <a href="https://rebbeccaandmatt.com">Blog</a>
 </p>
