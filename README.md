@@ -47,6 +47,8 @@ I'm a [Web Developer](https://www.linkedin.com/in/maweiche/) focusing on fullsta
     <img alt="Swift" src="https://img.shields.io/badge/-Swift-3498db?style=flat-square&logo=swift&logoColor=white" />
 </div>
 
+<figure><embed src="https://wakatime.com/share/@56e2e383-acfb-475b-96fd-f7fffa59cd08/cd540cf7-9eda-4038-b14f-a12e65c09b12.svg"></embed></figure>
+
 ---
 
 <h3>About me</h3>
