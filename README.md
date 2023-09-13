@@ -55,4 +55,4 @@ I'm a [Web Developer](https://www.linkedin.com/in/maweiche/) focusing on fullsta
 - ⚡ Fun fact: I have a Bachelor's Degree in Business Administration: Finance from N.C. State University 
 - 🌱 I'm currently learning Swift and C++ to venture into App development
 
-<img src="https://wakatime.com/share/@56e2e383-acfb-475b-96fd-f7fffa59cd08/cd540cf7-9eda-4038-b14f-a12e65c09b12.svg"/>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@56e2e383-acfb-475b-96fd-f7fffa59cd08/e7cabdb8-ec08-4312-8309-cba7de2513cd.png" /></a>
