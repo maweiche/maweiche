@@ -19,17 +19,18 @@ I'm a [Web Developer](https://www.linkedin.com/in/maweiche/) focusing on fullsta
 
 <h3>Things I code with</h3>
 <div>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="React Native" src="https://img.shields.io/badge/-React Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-f1c40f?style=flat-square&logo=Python" />
-  <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white" />
-  <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-2980b9?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-34495e?style=flat-square&logo=javascript" />
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="Angular" src="https://img.shields.io/badge/-Angular-34495e?style=flat-square&logo=angular" />
+    <img alt="React Native" src="https://img.shields.io/badge/-React Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/-Python-f1c40f?style=flat-square&logo=Python" />
+    <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white" />
+    <img alt="Rust" src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+    <img alt="CSS" src="https://img.shields.io/badge/-CSS-2980b9?style=flat-square&logo=css3&logoColor=white" />
+    <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-34495e?style=flat-square&logo=javascript" />
 </div>
 
 <h3>Services I use</h3>
@@ -54,5 +55,3 @@ I'm a [Web Developer](https://www.linkedin.com/in/maweiche/) focusing on fullsta
 - 📫 How to reach me: `maweiche@gmail.com`
 - ⚡ Fun fact: I have a Bachelor's Degree in Business Administration: Finance from N.C. State University 
 - 🌱 I'm currently learning Swift and C++ to venture into App development
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@56e2e383-acfb-475b-96fd-f7fffa59cd08/e7cabdb8-ec08-4312-8309-cba7de2513cd.png" /></a>
